@@ -1,0 +1,34 @@
+# Віртуальне середовище
+.venv/
+env/
+venv/
+
+# Кеші Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Кеш pytest
+.pytest_cache/
+.cache/
+
+# Системні файли
+.DS_Store
+Thumbs.db
+
+# Середовище
+.env
+*.env
+
+# IDE
+.vscode/
+.idea/
+
+# Логи
+*.log
+
+# Тимчасові файли
+*.tmp
+*.bak
+*.swp
